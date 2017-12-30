@@ -1,4 +1,8 @@
 
+// basic boilerplate for a redux action, it takes in the actions and gets 
+// exported to the reducer, the reducer then reduces the action down and updates
+// the store. 
+
 import { TypeKeys } from '../TypeKeys';
 
 export type EnthusiasmActionTypes = 

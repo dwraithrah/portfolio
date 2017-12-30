@@ -12,6 +12,10 @@ interface OwnProps { }
 interface OwnState { }
 export class App extends React.Component<OwnProps, OwnState> {
 
+// so the app page is also typically boilerplater, this is like the master container for your app
+// as you can see I am setting the routes that will be displayed on the page.
+// I also set the Toolbar here since it covers the entire app page. 
+
   render() {
     return (
       <Toolbar>
