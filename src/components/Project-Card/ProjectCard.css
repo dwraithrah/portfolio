@@ -1,0 +1,17 @@
+.Card {
+  flex: auto;
+  max-width: 345px;
+  min-width: 180px;
+  height: 400px;
+  max-height: 400px;
+  margin: 0 8px 8px 0;
+}
+
+.Card-Image {
+  height: 200px;
+}
+
+.Card-Description {
+  height: 80px;
+  max-height: 80px;
+}

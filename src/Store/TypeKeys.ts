@@ -1,0 +1,5 @@
+export enum TypeKeys {
+  INCREMENT_ENTHUSIASM = 'INCREMENT_ENTHUSIASM',
+  DECREMENT_ENTHUSIASM = 'DECREMENT_ENTHUSIASM',
+  OTHER_ACTION = '__any_other_action_type__',
+}

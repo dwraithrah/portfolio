@@ -1,0 +1,35 @@
+
+.Contact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Header {
+  height: 150px;
+}
+
+.Text-Field  {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 75%;
+  left: 12%;
+}
+
+
+.Profiles ul {
+  padding-left: 0;
+  padding-left: 0;
+  text-decoration: none;
+}
+
+.Profiles a {
+  text-decoration: none;
+}
+
+.Profiles li {
+  margin-right: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+

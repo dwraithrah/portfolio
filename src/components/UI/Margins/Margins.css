@@ -1,0 +1,11 @@
+.Margins {
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+  margin: 25px auto;
+  flex-grow: 1;
+  min-width: 1px;
+  max-width: 75%;
+  width: 100%;
+  justify-content: space-evenly;
+}

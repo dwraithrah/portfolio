@@ -1,0 +1,10 @@
+.Hello {
+  flex: auto;   
+  text-align: center;
+  color: rgb(86, 144, 211);
+}
+
+.Hello button {
+  margin-right: 5px;
+  display: inline-block;
+}

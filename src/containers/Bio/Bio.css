@@ -1,0 +1,15 @@
+.Bio { }
+
+.Bio-Paper{
+  padding: 10px 20px;
+}
+
+.Bio-Img {
+  width: 25%;
+}
+
+@media (max-width: 600px) {
+  .Bio-Img {
+    width: 100%
+  }
+}

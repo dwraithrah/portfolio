@@ -1,0 +1,31 @@
+ul {
+  padding-left: 0;
+  padding-left: 0;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .High-Res {
+    display: none;
+  }
+
+}
+
+@media (min-width: 601px) {
+  .Low-Res {
+    display: none;
+  } 
+
+  li {
+    display: inline-block;
+  }
+}
